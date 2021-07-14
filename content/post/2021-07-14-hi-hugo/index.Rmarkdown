@@ -1,0 +1,18 @@
+---
+title: Hi Hugo
+author: Karim Anaya Izquierdo
+date: '2021-07-14'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-07-14T23:55:46+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
