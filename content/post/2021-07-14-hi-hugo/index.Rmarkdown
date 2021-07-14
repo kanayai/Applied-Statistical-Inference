@@ -16,3 +16,11 @@ image:
   preview_only: no
 projects: []
 ---
+
+
+hola amigos
+
+```{r}
+dplyr::glimpse(iris)
+```
+
